@@ -16,3 +16,9 @@ cifar-10-batches-py/*
 /cifar-10-batches-py/*
 
 helper.py
+
+image_classification.index
+image_classification.meta
+image_classification.data-00000-of-00001
+
+.ipynb_checkpoints/*
